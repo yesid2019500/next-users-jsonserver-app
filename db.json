@@ -1,0 +1,300 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "fullName": "John Doe",
+      "age": 32,
+      "occupation": "Software Developer",
+      "nickname": "Johnny",
+      "gender": "Male",
+      "picture": "https://randomuser.me/api/portraits/lego/1.jpg"
+    },
+    {
+      "id": 2,
+      "fullName": "Janet",
+      "age": "50",
+      "occupation": "singer",
+      "nickname": "Janet jackson",
+      "gender": "f",
+      "picture": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2022/04/13/16498531545158.jpg"
+    },
+    {
+      "id": 3,
+      "fullName": "Bob Johnson",
+      "age": 45,
+      "occupation": "Teacher",
+      "nicKname": "Bob",
+      "gender": "Male",
+      "picture": "https://randomuser.me/api/portraits/lego/3.jpg"
+    },
+    {
+      "id": 4,
+      "fullName": "Alice Williams",
+      "age": 29,
+      "occupation": "Lawyer",
+      "nickname": "Ali",
+      "gender": "Female",
+      "picture": "https://randomuser.me/api/portraits/lego/4.jpg"
+    },
+    {
+      "id": 5,
+      "fullName": "Michael Brown",
+      "age": 41,
+      "occupation": "Construction Worker",
+      "nickname": "Mike",
+      "gender": "Male",
+      "picture": "https://randomuser.me/api/portraits/lego/5.jpg"
+    },
+    {
+      "id": 6,
+      "fullName": "Emily Davis",
+      "age": 36,
+      "occupation": "Nurse",
+      "nickname": "Em",
+      "gender": "Female",
+      "picture": "https://randomuser.me/api/portraits/lego/6.jpg"
+    },
+    {
+      "id": 7,
+      "fullName": "David Anderson",
+      "age": 38,
+      "occupation": "Police Officer",
+      "nickname": "Dave",
+      "gender": "Male",
+      "picture": "https://randomuser.me/api/portraits/lego/7.jpg"
+    },
+    {
+      "id": 8,
+      "fullName": "yesid M",
+      "age": "32",
+      "occupation": "React developer",
+      "nicKname": "Yesssssssss",
+      "gender": "m",
+      "picture": "https://e.rpp-noticias.io/normal/2016/07/02/273227_183782.jpg"
+    },
+    {
+      "id": 9,
+      "fullName": "William Rodriguez",
+      "age": 33,
+      "occupation": "Accountant",
+      "nickname": "Will",
+      "gender": "Male",
+      "picture": "https://randomuser.me/api/portraits/lego/9.jpg"
+    },
+    {
+      "id": 10,
+      "fullName": "Ashley Johnson",
+      "age": 30,
+      "occupation": "Salespeople",
+      "nicKname": "Ash",
+      "gender": "Female",
+      "picture": "https://randomuser.me/api/portraits/lego/1.jpg"
+    },
+    {
+      "id": 1670643567144,
+      "fullName": "Maro Maro",
+      "age": "34",
+      "occupation": "doctora",
+      "nickName": "maro",
+      "gender": "m",
+      "picture": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2022/04/13/16498531545158.jpg"
+    },
+    {
+      "id": 1670644146600,
+      "fullName": "michale",
+      "age": "80",
+      "occupation": "master developer",
+      "nickName": "mich",
+      "gender": "m",
+      "picture": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2022/04/13/16498531545158.jpg"
+    },
+    {
+      "id": 1670644275595,
+      "fullName": "Maro Maro2",
+      "age": "39",
+      "occupation": "designer",
+      "nickName": "may",
+      "gender": "m",
+      "picture": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2022/04/13/16498531545158.jpg"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Task 1",
+      "description": "This is the first task on the list.",
+      "completed": false,
+      "startDate": "2022-12-04",
+      "endDate": null,
+      "personId": 1
+    },
+    {
+      "id": 2,
+      "title": "Task 2",
+      "description": "This is the second task on the list.",
+      "completed": true,
+      "startDate": "2022-12-04",
+      "endDate": "2022-12-05",
+      "personId": 2
+    },
+    {
+      "id": 3,
+      "title": "Task 3",
+      "description": "This is the third task on the list.",
+      "completed": false,
+      "startDate": "2022-12-04",
+      "endDate": null,
+      "personId": 3
+    },
+    {
+      "id": 4,
+      "title": "Task 4",
+      "description": "This is the fourth task on the list.",
+      "completed": true,
+      "startDate": "2022-12-04",
+      "endDate": "2022-12-06",
+      "personId": 4
+    },
+    {
+      "id": 5,
+      "title": "Task 5",
+      "description": "This is the fifth task on the list.",
+      "completed": false,
+      "startDate": "2022-12-04",
+      "endDate": null,
+      "personId": 5
+    },
+    {
+      "title": "title",
+      "description": "description",
+      "startDate": "fecha comenzando",
+      "endDate": "fecha final",
+      "completed": true,
+      "id": 6
+    },
+    {
+      "id": 7,
+      "title": "Task 7",
+      "description": "This is the seventh task on the list.",
+      "completed": false,
+      "startDate": "2022-12-04",
+      "endDate": null,
+      "personId": 7
+    },
+    {
+      "title": "Task 8",
+      "description": "This is the eighth task on the list.",
+      "startDate": "2022-12-04",
+      "endDate": "2022-12-08",
+      "completed": true,
+      "id": 8
+    },
+    {
+      "id": 9,
+      "title": "Task 9",
+      "description": "This is the ninth task on the list.",
+      "completed": false,
+      "startDate": "2022-12-04",
+      "endDate": null,
+      "personId": 9
+    },
+    {
+      "id": 10,
+      "title": "Task 10",
+      "description": "This is the tenth task on the list.",
+      "completed": true,
+      "startDate": "2022-12-04",
+      "endDate": null
+    },
+    {
+      "id": 11,
+      "title": "Task 11",
+      "description": "This is the eleventh task on the list.",
+      "completed": false,
+      "startDate": "2022-12-04",
+      "endDate": null,
+      "personId": 1
+    },
+    {
+      "id": 12,
+      "title": "Task 12",
+      "description": "This is the twelfth task on the list.",
+      "completed": true,
+      "startDate": "2022-12-04",
+      "endDate": "2022-12-05",
+      "personId": 2
+    },
+    {
+      "id": 13,
+      "title": "Task 13",
+      "description": "This is the thirteenth task on the list.",
+      "completed": false,
+      "startDate": "2022-12-04",
+      "endDate": null,
+      "personId": 3
+    },
+    {
+      "id": 14,
+      "title": "Task 14",
+      "description": "This is the fourteenth task on the list.",
+      "completed": true,
+      "startDate": "2022-12-04",
+      "endDate": "2022-12-06",
+      "personId": 4
+    },
+    {
+      "id": 15,
+      "title": "Task 15",
+      "description": "This is the fifteenth task on the list.",
+      "completed": false,
+      "startDate": "2022-12-04",
+      "endDate": null,
+      "personId": 5
+    },
+    {
+      "id": 16,
+      "title": "Task 16",
+      "description": "This is the sixteenth task on the list.",
+      "completed": false,
+      "startDate": "2022-12-04",
+      "endDate": null,
+      "personId": 6
+    },
+    {
+      "id": 17,
+      "title": "Task 17",
+      "description": "This is the seventeenth task on the list.",
+      "completed": true,
+      "startDate": "2022-12-04",
+      "endDate": "2022-12-05",
+      "personId": 7
+    },
+    {
+      "id": 18,
+      "title": "Task 18",
+      "description": "This is the eighteenth task on the list.",
+      "completed": false,
+      "startDate": "2022-12-04",
+      "endDate": null,
+      "personId": 8
+    },
+    {
+      "id": 19,
+      "title": "Task 19",
+      "description": "This is the nineteenth task on the list.",
+      "completed": true,
+      "startDate": "2022-12-04",
+      "endDate": "2022-12-06",
+      "personId": 9
+    },
+    {
+      "id": 20,
+      "title": "Task 20",
+      "description": "This is the twentieth task on the list.",
+      "completed": false,
+      "startDate": "2022-12-04",
+      "endDate": null,
+      "personId": 10
+    }
+  ]
+}
